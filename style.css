@@ -60,6 +60,10 @@ a {
   text-decoration: none;
 }
 
+.the-team-link {
+  color: #58a6ff;
+}
+
 .nav-links {
   display: block;
   font-size: 18px;
